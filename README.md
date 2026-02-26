@@ -1,2 +1,2 @@
 # project
-for a trial period
+for a trial
